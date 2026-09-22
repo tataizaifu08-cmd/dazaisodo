@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bokusaido-shodo.tataizaifu08.chatgpt.site/sitemap.xml
+Sitemap: https://tataizaifu08-cmd.github.io/dazaisodo/sitemap.xml
